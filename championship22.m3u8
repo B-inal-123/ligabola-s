@@ -6,5 +6,6 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://85.14.32.26:8800/udp/239.100.10.141:5000
+http://81.31.194.66:8080/live/pro9091767359661/21d848759726/1481.ts
+
 #http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C1:20:BE&stream=902074&extension=ts
