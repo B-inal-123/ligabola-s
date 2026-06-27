@@ -6,6 +6,7 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://premium-serv.xyz:80/play/live.php?mac=00:1A:79:72:F4:A9&stream=79382&extension=ts&play_token=SnfCUpQLhZ
+http://195.142.194.26:5656/play/a05t
+#http://premium-serv.xyz:80/play/live.php?mac=00:1A:79:72:F4:A9&stream=79382&extension=ts&play_token=SnfCUpQLhZ
 
 #http://mains.services:80/live/9982659680/2285211317/134200.m3u8
