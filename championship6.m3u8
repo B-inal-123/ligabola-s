@@ -5,4 +5,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=5300000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-https://cdn.qd.je/163189.php?id=cctv5
+http://tvmate.icu:8080/live/Robert34953/vCzB36C4tP/47440.m3u8
